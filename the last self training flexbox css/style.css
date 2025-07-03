@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+.colonier{  
+   
+   display:flex;
+   justify-content: space-between;
+   
+}
+.box1{
+            background: mediumorchid;
+            width: 50px;
+            height: 50px;
+            border: solid dodgerblue;
+            box-sizing: border-box;
+            align-self: flex-end;
+            
+}
+.box2{
+    background: mediumorchid;
+    width: 50px;
+    height: 50px;
+    border: solid dodgerblue;
+    box-sizing: border-box;
+    
+}
+.box3{
+    background: mediumorchid;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border: solid dodgerblue;
+    
+}
+.box4{
+    background: mediumorchid;
+    width: 50px;
+    height: 50px;
+    border: solid dodgerblue;
+    box-sizing: border-box;
+}
+.box5{
+    background: mediumorchid;
+    width: 50px;
+    height: 50px;
+    border: solid dodgerblue;
+    box-sizing: border-box;
+}
+.box6{
+    background: mediumorchid;
+    width: 50px;
+    height: 50px;
+    border: solid dodgerblue;
+    box-sizing: border-box;
+    
+}
