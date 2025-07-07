@@ -1,4 +1,4 @@
-public class LenghMethods {
+public class LenghtMethods {
     public static void main(String[] args) {
         String str = "Hello. World!";
         int length = str.length();
