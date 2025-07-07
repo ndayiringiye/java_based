@@ -1,8 +1,8 @@
 public class FindAtChar {
     public static void main(String[] args) {
         String name = "david";
-        String ch = name.toUpperCase();
+        char ch = name.charAt(3);
         
-        System.out.println("string changed into uppercase  :" + ch);
+        System.out.println("character at index 3 is :" + ch);
     }
 }
